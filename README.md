@@ -1,1 +1,1 @@
-# Solana Arbitrage App
+# Arby - Solana Arbitrage Dashboard
